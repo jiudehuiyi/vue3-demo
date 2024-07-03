@@ -11,4 +11,4 @@ git add -A
 git commit -m 'auto deploy'
 
 
-git push -f https://github.com/jiudehuiyi/vue3-demo.git main:static-pages
+git push -f https://github.com/jiudehuiyi/vue3-demo.git develop
